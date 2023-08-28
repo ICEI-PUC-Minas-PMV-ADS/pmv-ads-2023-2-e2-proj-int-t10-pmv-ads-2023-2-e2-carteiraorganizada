@@ -19,7 +19,7 @@ Nosso projeto tem como proncipal foco ajudar as pessoas que tem dificuldade em a
 
 ## Orientador
 
-* Nome completo do professor 1
+* Daniela Carvalho Monteiro Ferreira
 
 ## Instruções de utilização
 

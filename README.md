@@ -2,11 +2,11 @@
 
 `Análise e Desenvolvimento de Sistemas` 
 
-`Projeto: Análise e Projeto de Sistemas de Software` 
+`Projeto: Desenvolvimento de uma Aplicação Interativa` 
 
 `2º SEMESTRE 2023-2` 
 
-Nosso projeto tem como proncipal foco ajudar as pessoas que tem uma certa dificuldade em administrar seu dinheiro.
+Nosso projeto tem como proncipal foco ajudar as pessoas que tem dificuldade em administrar seu próprio dinheiro. Criaremos uma aplicação Web onde facilitaremos a visualização dos ativos e passivos do usúario.
 
 ## Integrantes
 

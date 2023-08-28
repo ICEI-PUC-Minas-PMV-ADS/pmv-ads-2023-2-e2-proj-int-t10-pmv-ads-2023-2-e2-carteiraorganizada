@@ -1,12 +1,12 @@
 # TÍTULO DO PROJETO
 
-`CURSO` Análise e Desenvolvimento de Sistemas
+`Análise e Desenvolvimento de Sistemas` 
 
-`DISCIPLINA` Projeto do Eixo 2
+`Projeto: Análise e Projeto de Sistemas de Software` 
 
-`SEMESTRE` 2023-2
+`2º SEMESTRE 2023-2` 
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nosso projeto tem como proncipal foco ajudar as pessoas que tem uma certa dificuldade em administrar seu dinheiro.
 
 ## Integrantes
 

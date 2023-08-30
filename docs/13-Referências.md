@@ -7,6 +7,7 @@ Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvo
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
 
 Usados na construção da justificativa do projeto.
+
 https://einvestidor.estadao.com.br/educacao-financeira/brasileiros-planejamento-financeiro-pesquisa/
 
 https://blog.euemdia.com.br/endividamento-das-familias/

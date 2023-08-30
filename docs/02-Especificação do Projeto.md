@@ -6,123 +6,172 @@ A definição do problema e os pontos mais relevantes a serem tratados nesse pro
 
 Os detalhes levantados por meio, de entrevistas, foram consolidados na forma de Personas e História dos Usuários.
 
-Marina Fernandez
+## Marina Fernandez
 
 Idade: 35
 
 Ocupação: Gerente de Recursos Humanos, funcionária de uma multinacional do setor de alimentos e bebidas. Casada, reside em uma grande capital do país.
 
 Aplicativos:
+
 ● Instagram
+
 ● Facebook
+
 ● LinkedIn
 
 Motivações
+
 ● Família
+
 ● Estudos
+
 ● Vontade de vencer
 
 Frustrações
+
 ● País
+
 ● Falta de Oportunidade
+
 ● Falta de Empatia pelos colegas de trabalho
 
 Hobbies, História
-● Andar de Bicicleta
-Reunir com a família nos finais de semana
 
-Mario de Andrade
+● Andar de Bicicleta
+
+● Reunir com a família nos finais de semana
+
+## Mario de Andrade
 
 Idade: 40
 
 Ocupação: Microempresário, com um pequeno comércio especializado em manutenção e vendas de máquinas de lavar usadas e peças não utilizadas. Casado, reside em uma cidade do interior de Minas Gerais.
 
 Aplicativos:
+
 ● Facebook
+
 ● Instagram
+
 ● Aplicativos de bancos
 
 Motivações
+
 ● Estar com a família
+
 ● Buscar rendas extras
 
 Frustrações
+
 ● Não conseguir chegar nos objetivos determinados
 
 Hobbies, História
+
 ● Jogar futebol com o filho
+
 ● Estar junto com a família nos finais de semana.
 
-Jose Maria
+## Jose Maria
 
 Idade: 20
 
 Ocupação: Autônomo, trabalha como freelancer em criação e manutenção de sistemas de informação. Solteiro, reside com os familiares em uma grande capital do país.
 
 Aplicativos:
+
 ● Marvel
+
 ● Instagram
+
 ● Visual basic
 
 Motivações
+
 ● Criar novos projetos
+
 ● Buscar rendas extras
+
 ● Buscar novos conhecimentos na área em que trabalha
 
 Frustrações
+
 ● Não concluir um projeto no prazo estipulado
 
 Hobbies, História
+
 ● Jogar jogos de futebol
+
 ● Tocar guitarra.
 
-Fernanda Tavares
+## Fernanda Tavares
 
 Idade: 31
 
 Ocupação: Professora, leciona aulas em uma grande universidade especializada em pesquisa e extensão no Brasil. Solteira, residente na cidade de Montes Claros - MG.
 
 Aplicativos:
+
 ● Facebook
+
 ● Instagram
+
 ● Aplicativo Bancário
 
 Motivações
+
 ● Ser professora
+
 ● Levar o conhecimento a vários alunos
+
 ● Buscar novos conhecimentos para agregação
 
 Frustrações
+
 ● Não ser respeitada como professora
-● Sua profissão não ser valorizada, pela sua importância.
+
+● Sua profissão não ser valorizada, pela sua importância
 
 Hobbies, História
-● Leitura
-● Viagens.
 
-Ricardo Almeida
+● Leitura
+
+● Viagens
+
+## Ricardo Almeida
 
 Idade: 50
 
 Ocupação: enfermeiro, trabalha em uma policlínica e agente de saúde pública. Casado, residente na cidade do Rio de Janeiro.
 
 Aplicativos:
+
 ● Facebook
+
 ● Instagram
+
 ● Aplicativo Bancário
 
 Motivações
+
 ● Se considerar um grande profissional
+
 ● Gosta da sua profissão
+
 ● Fazer o bem ao próximo
 
 Frustrações
+
 ● Não ter conquistado uma graduação
+
 ● Más condições de trabalho.
 
 Hobbies, História
+
 ● Ajudar a cuidar no neto
+
 ● Viagens.
+
 
 ## Histórias de Usuários
 

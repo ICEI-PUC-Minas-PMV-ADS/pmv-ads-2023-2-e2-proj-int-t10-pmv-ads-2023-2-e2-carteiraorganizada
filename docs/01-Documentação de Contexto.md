@@ -14,12 +14,8 @@ Além do funcionamento correto da aplicação, temos como principal foco obter u
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Ao saber que pesquisas apontam que mais da metade dos brasileiros não conseguem se planejar financeiramente para o futuro, e que mais de 75% das famílias brasileira estão atualmente endividadas pela falta de educação financeira ou pela falta de uma reserva de emergência ou pela má gestão de suas finanças, resolvemos facilitar o gerenciamento de suas finanças e de acordo com os dados inseridos pelos usuários indicarmos melhores formas de aplicar seus dinheiros.
+Como ponto chave em nossa concepção do projeto, a usabilidade, pretendemos atingir o maior número de brasileiro possível que necessite de ajuda para gerenciar melhor suas finanças. Assim, conseguindo ter uma vida financeira mais tranquila, conseguindo aproveitar melhor suas vidas pessoais, não precisando se limitar financeiramente sem necessidade.
 
 ## Público-Alvo
 

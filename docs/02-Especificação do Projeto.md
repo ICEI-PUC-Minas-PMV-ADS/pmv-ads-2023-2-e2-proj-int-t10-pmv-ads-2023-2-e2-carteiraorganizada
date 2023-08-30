@@ -179,17 +179,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Marina Fernandez    | Manter toda a movimentação financeira registrado mês a mês.           | Melhor controle financeiro               |
+|Marina Fernandez    |visualizar os registros detalhados das entradas e de qual fonte pagadora.| Ter ciência de qual fonte pagadora está entrando mais dinheiro. |
+|José Maria  | Visualizar a pesquisa de gastos e despesas realizados durante um ano específico.          | Para organização e planejamento do ano seguinte.|
+|José Maria      | Visualizar as despesas e os gastos realizados no mês.| Para maior controle dos gastos e despesas de casa. |
+|Mario de Andrade      | Ter um controle financeiro sobre as entradas das manutenções de vendas de máquinas de lavar e peças usadas.| Um melhor fluxo de entrada e saída e das despesas diversas. |
+|Mario de Andrade  | Mostrar detalhadamente as entradas e saídas mês a mês.| Gerar um relatório para demonstrar se o negócio está dando lucro ou prejuízo.|
+|Fernanda Tavares | Poder realizar a pesquisa de um gasto ou despesa específico.| Ficar fácil atalhar onde está ocorrendo um desembolso maior de valor. |
+|Fernanda Tavares | Gerar um relatório de todas as entradas e saídas.| Para um melhor planejamento para o próximo ano/período.|
+|Ricardo Almeida       | Um sistema ágil e rápido para inclusão de entradas e saídas de valores.| Para melhor controle e agilidade em uma tomada de uma decisão financeira.|
+|Ricardo Almeida |Poder realizar uma pesquisa por exemplo, quanto foi gasto de luz em período específico.| Controle não só do valor gasto com luz, mas também o controle de consumo realizado em um determinado período.|
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 

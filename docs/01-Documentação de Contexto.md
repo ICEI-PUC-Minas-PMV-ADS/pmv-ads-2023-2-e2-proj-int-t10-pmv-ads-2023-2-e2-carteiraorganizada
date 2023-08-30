@@ -15,6 +15,7 @@ Além do funcionamento correto da aplicação, temos como principal foco obter u
 ## Justificativa
 
 Ao saber que pesquisas apontam que mais da metade dos brasileiros não conseguem se planejar financeiramente para o futuro, e que mais de 75% das famílias brasileira estão atualmente endividadas pela falta de educação financeira ou pela falta de uma reserva de emergência ou pela má gestão de suas finanças, resolvemos facilitar o gerenciamento de suas finanças e de acordo com os dados inseridos pelos usuários indicarmos melhores formas de aplicar seus dinheiros.
+
 Como ponto chave em nossa concepção do projeto, a usabilidade, pretendemos atingir o maior número de brasileiro possível que necessite de ajuda para gerenciar melhor suas finanças. Assim, conseguindo ter uma vida financeira mais tranquila, conseguindo aproveitar melhor suas vidas pessoais, não precisando se limitar financeiramente sem necessidade.
 
 ## Público-Alvo

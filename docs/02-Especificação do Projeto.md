@@ -1,26 +1,128 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição do problema e os pontos mais relevantes a serem tratados nesse projeto foi consolidado através de observação das necessidades dos indivíduos em ter uma facilidade de levantamento e apuração do seu controle financeiro.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Os detalhes levantados por meio, de entrevistas, foram consolidados na forma de Personas e História dos Usuários.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Marina Fernandez
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Idade: 35
+
+Ocupação: Gerente de Recursos Humanos, funcionária de uma multinacional do setor de alimentos e bebidas. Casada, reside em uma grande capital do país.
+
+Aplicativos:
+● Instagram
+● Facebook
+● LinkedIn
+
+Motivações
+● Família
+● Estudos
+● Vontade de vencer
+
+Frustrações
+● País
+● Falta de Oportunidade
+● Falta de Empatia pelos colegas de trabalho
+
+Hobbies, História
+● Andar de Bicicleta
+Reunir com a família nos finais de semana
+
+Mario de Andrade
+
+Idade: 40
+
+Ocupação: Microempresário, com um pequeno comércio especializado em manutenção e vendas de máquinas de lavar usadas e peças não utilizadas. Casado, reside em uma cidade do interior de Minas Gerais.
+
+Aplicativos:
+● Facebook
+● Instagram
+● Aplicativos de bancos
+
+Motivações
+● Estar com a família
+● Buscar rendas extras
+
+Frustrações
+● Não conseguir chegar nos objetivos determinados
+
+Hobbies, História
+● Jogar futebol com o filho
+● Estar junto com a família nos finais de semana.
+
+Jose Maria
+
+Idade: 20
+
+Ocupação: Autônomo, trabalha como freelancer em criação e manutenção de sistemas de informação. Solteiro, reside com os familiares em uma grande capital do país.
+
+Aplicativos:
+● Marvel
+● Instagram
+● Visual basic
+
+Motivações
+● Criar novos projetos
+● Buscar rendas extras
+● Buscar novos conhecimentos na área em que trabalha
+
+Frustrações
+● Não concluir um projeto no prazo estipulado
+
+Hobbies, História
+● Jogar jogos de futebol
+● Tocar guitarra.
+
+Fernanda Tavares
+
+Idade: 31
+
+Ocupação: Professora, leciona aulas em uma grande universidade especializada em pesquisa e extensão no Brasil. Solteira, residente na cidade de Montes Claros - MG.
+
+Aplicativos:
+● Facebook
+● Instagram
+● Aplicativo Bancário
+
+Motivações
+● Ser professora
+● Levar o conhecimento a vários alunos
+● Buscar novos conhecimentos para agregação
+
+Frustrações
+● Não ser respeitada como professora
+● Sua profissão não ser valorizada, pela sua importância.
+
+Hobbies, História
+● Leitura
+● Viagens.
+
+Ricardo Almeida
+
+Idade: 50
+
+Ocupação: enfermeiro, trabalha em uma policlínica e agente de saúde pública. Casado, residente na cidade do Rio de Janeiro.
+
+Aplicativos:
+● Facebook
+● Instagram
+● Aplicativo Bancário
+
+Motivações
+● Se considerar um grande profissional
+● Gosta da sua profissão
+● Fazer o bem ao próximo
+
+Frustrações
+● Não ter conquistado uma graduação
+● Más condições de trabalho.
+
+Hobbies, História
+● Ajudar a cuidar no neto
+● Viagens.
 
 ## Histórias de Usuários
 

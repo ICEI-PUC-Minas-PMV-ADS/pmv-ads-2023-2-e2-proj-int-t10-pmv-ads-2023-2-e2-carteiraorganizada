@@ -20,13 +20,9 @@ Como ponto chave em nossa concepção do projeto, a usabilidade, pretendemos ati
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A Carteira Organizada é um projeto para atender todo tipo de pessoa que busca assumir o controle de suas finanças pessoais e alcançar estabilidade financeira. O público-alvo abrange desde jovens profissionais que estão começando a construir sua base financeira até indivíduos que já possuem experiência, mas buscam otimizar suas decisões financeiras.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+* Jovens profissionais que estão entrando no mundo financeiro. Uma aplicação simples e eficaz para ajudar construir bons habitos financeiros desde o inicio
+* Investidores iniciantes que pretendem a organizar suas finanças e avaliar seus ganhos financeiros.
+* Pessoas com problemas financeiros que pretendem organizar suas despesas e verificar de forma clara para poder criar estrategias de contornar suas dividas.
+* Casais e famílias que estão lidando com múltiplas fontes de renda e despesas familiares, assim utilizando a ferramenta para auxiliar na gestão conjunta das finanças, vendo de forma clara seus gastos e rendimentos compartilhados.

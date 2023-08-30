@@ -8,6 +8,11 @@ O controle das finanças pessoais é uma tarefa que muitas pessoas enfrentam dif
 
 ## Objetivos
 
+A solução proposta é a criação de uma ferramenta web intuitiva e simples que será desenvolvida para facilitar o gerenciamento financeiro de pessoas que tenham dificuldades de montar um planejamento financeiro para os próximos anos. Essa ferramenta será capaz de colher dados enviados pelo cliente e conseguir, facilitar a visualização de possíveis prejuízos ou lucros em um período especifico, notificar vencimentos de débitos, gerar gráficos para facilitar a visualização entre outros.
+
+Além do funcionamento correto da nossa aplicação, temos como principal foco obter uma excelente usabilidade para o usuário, promovendo a facilidade de aprendizado, a facilidade de uso, uma inclusão de dados de forma simplificada, e um template visualmente intuitivo sendo possível ser utilizado por pessoas com baixo grau de instrução, assim podendo ajudar um maior número de pessoas.    
+
+
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.

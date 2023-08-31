@@ -179,7 +179,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Marina Fernandez    | Manter toda a movimentação financeira registrado mês a mês.           | Melhor controle financeiro               |
+|Marina Fernandez    | Manter toda a movimentação financeira registrado mês a mês | Melhor controle financeiro|
 |Marina Fernandez    |visualizar os registros detalhados das entradas e de qual fonte pagadora.| Ter ciência de qual fonte pagadora está entrando mais dinheiro. |
 |José Maria  | Visualizar a pesquisa de gastos e despesas realizados durante um ano específico.          | Para organização e planejamento do ano seguinte.|
 |José Maria      | Visualizar as despesas e os gastos realizados no mês.| Para maior controle dos gastos e despesas de casa. |
@@ -199,33 +199,22 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |------|-----------------------------------------|----|
 |RF-001|O sistema deve ter página de cadastro de usuário  | ALTA | 
 |RF-002| O sistema deve ter página de login  | ALTA  |
-|RF-003| O sistema deve permitir o usuário cadastrar informações, modificar e alterar conforme os dados de finanças pessoas se altere
-
- | ALTA | 
+|RF-003| O sistema deve permitir o usuário cadastrar informações, modificar e alterar conforme os dados de finanças pessoas se altere | ALTA | 
 |RF-004| O sistema deve permitir que o usuário avalie o serviço   | MÉDIA |
 |RF-005| O usuário deve ser direcionados para um painel que mostre um resumo das suas finanças pessoais, incluindo saldo total, despesas e receitas recentes | ALTA | 
-|RF-006| Os usuários devem poder registrar suas despesas e receitas, categorizá-las (alimentação, moradia, salário, etc.) e adicionar detalhes relevantes (data, descrição, etc.).
-É importante permitir a adição de informações recorrentes, como contas mensais| ALTA |
-|RF-007| Os usuários podem configurar lembretes automáticos para pagamentos de contas importantes, evitando atrasos e penalidades
-| ALTA | 
+|RF-006| Os usuários devem poder registrar suas despesas e receitas, categorizá-las (alimentação, moradia, salário, etc.) e adicionar detalhes relevantes (data, descrição, etc.). É importante permitir a adição de informações recorrentes, como contas mensais| ALTA |
+|RF-007| Os usuários podem configurar lembretes automáticos para pagamentos de contas importantes, evitando atrasos e penalidades| ALTA | 
 |RF-008| Enviar notificações por e-mail ou mensagens internas sobre atividades importantes  | ALTA |
-|RF-009| Fornecer uma seção de suporte ao cliente para responder a perguntas frequentes e permitir a abertura de tickets de suporte 
-|ALTA | 
-|RF-010|O site deve ser intuitivo e de fácil utilização, mesmo para usuários não técnicos.  | ALTA |
+|RF-009| Fornecer uma seção de suporte ao cliente para responder a perguntas frequentes e permitir a abertura de tickets de suporte |ALTA | 
+|RF-010| O site deve ser intuitivo e de fácil utilização, mesmo para usuários não técnicos.  | ALTA |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
+| ID    | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ter senhas de acesso e identificação para os usuários
-
- | ALTA | 
-|RNF-002| Os dados pessoais devem ser armazenados sob a Lei Geral de Proteção de Dados Pessoais (LGPD)
-
- | ALTA |
-|RNF-003|O sistema deve funcionar nos principais navegadores, como Chrome, Firefox, Edge, Opera.
-
-  | ALTA | 
+|RNF-001| O site deve ter senhas de acesso e identificação para os usuários| ALTA | 
+|RNF-002| Os dados pessoais devem ser armazenados sob a Lei Geral de Proteção de Dados Pessoais (LGPD)| ALTA |
+|RNF-003|O sistema deve funcionar nos principais navegadores, como Chrome, Firefox, Edge, Opera.| ALTA | 
 |RNF-004| O site deve estar disponível e acessível para os usuários 24 horas por dia, 7 dias por semana, com um tempo de inatividade planejado mínimo para manutenção | ALTA |
 |RNF-005| O site deverá ser fácil de usar, eficiente e acessível | ALTA | 
 |RNF-006|Os dados do usuário devem ser armazenados e transmitidos de forma segura, utilizando criptografia forte  |  ALTA |

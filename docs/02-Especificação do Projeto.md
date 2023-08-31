@@ -230,6 +230,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho. | 
 
 ## Diagrama de Casos de Uso
+## Diagrama de Casos de Uso
 
 ![Diagrama de casos de uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/48370523/af1ea6d5-d77f-4702-92a6-f99de67023a1)
 

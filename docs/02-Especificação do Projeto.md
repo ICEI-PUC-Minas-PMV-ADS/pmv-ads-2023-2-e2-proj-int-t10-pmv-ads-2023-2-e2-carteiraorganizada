@@ -214,7 +214,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |-------|-------------------------|----|
 |RNF-001| O site deve ter senhas de acesso e identificação para os usuários| ALTA | 
 |RNF-002| Os dados pessoais devem ser armazenados sob a Lei Geral de Proteção de Dados Pessoais (LGPD)| ALTA |
-|RNF-003|O sistema deve funcionar nos principais navegadores, como Chrome, Firefox, Edge, Opera.| ALTA | 
+|RNF-003| O sistema deve funcionar nos principais navegadores, como Chrome, Firefox, Edge, Opera.| ALTA | 
 |RNF-004| O site deve estar disponível e acessível para os usuários 24 horas por dia, 7 dias por semana, com um tempo de inatividade planejado mínimo para manutenção | ALTA |
 |RNF-005| O site deverá ser fácil de usar, eficiente e acessível | ALTA | 
 |RNF-006|Os dados do usuário devem ser armazenados e transmitidos de forma segura, utilizando criptografia forte  |  ALTA |
@@ -223,11 +223,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
-|ID| Descrição da Restrição |Prioridade|
-|----|-------------------------|----|
-|RE-001| O projeto deverá ser entregue no final do semestre letivo.| ALTA | 
-|RE-002| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |  ALTA |
-|RE-003| A equipe não pode subcontratar o desenvolvimento do trabalho. | MÉDIA | 
+|ID|Restrição |
+|----|-------------------------|
+|RE-01| O projeto deverá ser entregue no final do semestre letivo.| 
+|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend | 
+|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho. | 
 
 ## Diagrama de Casos de Uso
 

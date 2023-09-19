@@ -3,7 +3,17 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Neste Projeto iremos utilizar a metodologia mostrada no quadro abaixo:
+
+|Ambiente                        | Plataforma            |Link de Acesso                                           |
+|--------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Documentos do Projeto           |Google Docs              | https://docs.google.com/document/d/1UFvQ2Gaslp388uisy9AIyJHnNrSWEKNk/edit?usp=sharing&ouid=104664687155015801045&rtpof=true&sd=true |
+|Repositório de Código Fonte      |Git Hub                |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-planejamento-orcamentario#|
+|Projeto de Interface e wireframes |Figma                  |https://www.figma.com/file/p2jHwdLS4o9N20C0ni6ci4/Untitled-(Copy)?node-id=243%3A1     |
+|Gerenciamento de Projeto (KANBAN)         |GitHub Projects             |   https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/166              |
+|Estrutura do código | Visual Studio Code| - |
+
+
 
 ## Controle de Versão
 

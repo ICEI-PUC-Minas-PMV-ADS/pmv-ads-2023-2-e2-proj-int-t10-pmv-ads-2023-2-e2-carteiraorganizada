@@ -8,7 +8,7 @@ Neste Projeto iremos utilizar a metodologia mostrada no quadro abaixo:
 |Ambiente                        | Plataforma            |Link de Acesso                                           |
 |--------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Documentos do Projeto           |Google Docs              | https://docs.google.com/document/d/1UFvQ2Gaslp388uisy9AIyJHnNrSWEKNk/edit?usp=sharing&ouid=104664687155015801045&rtpof=true&sd=true |
-|Repositório de Código Fonte      |Git Hub                |[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-planejamento-orcamentario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada)#|
+|Repositório de Código Fonte      |Git Hub                |[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada]|
 |Projeto de Interface e wireframes |Figma                  |https://www.figma.com/file/p2jHwdLS4o9N20C0ni6ci4/Untitled-(Copy)?node-id=243%3A1     |
 |Gerenciamento de Projeto (KANBAN)         |GitHub Projects             |   https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/166              |
 |Estrutura do código | Visual Studio Code| - |

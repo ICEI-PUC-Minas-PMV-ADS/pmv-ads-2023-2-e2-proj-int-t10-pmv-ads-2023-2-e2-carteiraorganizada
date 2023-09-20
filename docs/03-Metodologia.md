@@ -93,7 +93,7 @@ https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/515
    - Projeto do Github com Backlog e Plano de Sprints;
    - Vídeo de até 3 minutos;
   
-  - `Planejamento Sprint Backlog:`
+- `Planejamento Sprint Backlog:`
   
   
 

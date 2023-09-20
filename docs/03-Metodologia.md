@@ -65,7 +65,7 @@ A divisão da equipe será:
      
 ### Processo
 
-https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/515
+
 
 - `Backlog do Produto:`
    - Definição do problema;      
@@ -93,7 +93,53 @@ https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/515
    - Projeto do Github com Backlog e Plano de Sprints;
    - Vídeo de até 3 minutos;
   
-- `Planejamento Sprint Backlog:`
+- `Sprint Backlog:`
+  1. *Sprint 1*
+   - 1.1 *Planejamento*
+       - 1.1.1 Documentação de contexto: estabelecer o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+       - 1.1.2 Especificação do projeto: estabelecer as personas, histórias de usuários, requisitos funcionais e não funcionais, além das restrições do projeto.
+   - 1.2 *Evidências*
+       - 1.2.1 Documentação de contexto: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md
+       - 1.2.2 Especificação do projeto: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md
+       - 1.2.3 Nesta Sprint não tivemos grandes dificuldades, as funções foram bem divididas e acabou ficando leve e fácil para todos do grupo.
+- 2. *Sprint 2*
+   - 2.1 *Planejamento*
+       - 2.1.1 Metodologia: definir a composição da equipe de trabalho e as relações de ambiente de trabalho.
+       - 2.1.2 Diagrama de Classe, de Fluxo e Modelo de entidade relacional: Pré visualização dos atributos, variaveis e entidades utilizados no projeto. 
+       - 2.1.3 Wireframe Interativo: Pré visualização das funções disponiveis nas telas do site.
+       - 2.1.4 Desenvolvimento do plano de testes de Software e Usabilidade.
+   - 2.2 *Evidências*
+       - 2.2.1 Metodologia: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/03-Metodologia.md
+       - 2.2.2 Projeto de Interface: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/04-Projeto%20de%20Interface.md
+       - 2.2.3 Arquitetura da solução: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md
+       - 2.2.4 Plano de testes de Software: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md
+       - 2.3.5 Plano de testes de Usabilidade: 
+- 3. *Sprint 3*
+   - 3.1 *Planejamento*
+       - 2.1.1 Template padrão do Site.
+       - 2.1.2 Programação de funcionalidades.
+       - 2.1.3 Prova de Conceito da Arquitetura (POC).
+   - 3.2 *Evidências*
+       - 2.2.1 Template padrão do Site: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/06-Template%20Padr%C3%A3o%20da%20Aplica%C3%A7%C3%A3o.md
+       - 2.2.2 Programação de funcionalidades: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/07-Programa%C3%A7%C3%A3o%20de%20Funcionalidades.md
+- 4. *Sprint 4*
+   - 4.1 *Planejamento*
+       - 4.1.1 Programação das demais funcionalidades.
+       - 4.1.2 Plano de Testes de Software.
+       - 4.1.3 Registro de Testes de Software.
+   - 4.2 *Evidências*
+       - 4.2.1 Programação das demais funcionalidades: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/07-Programa%C3%A7%C3%A3o%20de%20Funcionalidades.md
+       - 4.2.2 Plano de Testes de Software: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/09-Registro%20de%20Testes%20de%20Software.md
+       - 4.2.3 Registro de Testes de Software: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/11-
+         
+- 5. *Sprint 5*
+   - 5.1 *Planejamento*
+        - 5.1.1 Relatório do teste de software.
+        - 5.1.2 Relatório do teste de usabilidade.
+        - 5.1.3 Apresentação da solução.
+   - 5.2 *Evidências*
+        - 5.2.1 Apresentação do projeto: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/blob/main/docs/12-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md
+
   
   
 

@@ -69,7 +69,7 @@ https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/515
 
 - `Backlog do Produto:`
         - Sprint 1
-   - Definição do problema;   - Documentação da Metodologia;
+   - Definição do problema;      - Documentação da Metodologia;
    - Proposta de solução;   - Documentação da Metodologia;
    - Personas e Histórias de usuários;
    - Requisitos e Restrições;

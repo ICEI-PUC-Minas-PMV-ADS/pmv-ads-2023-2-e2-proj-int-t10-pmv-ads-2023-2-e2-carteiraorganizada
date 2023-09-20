@@ -68,14 +68,34 @@ A divisão da equipe será:
 https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/515
 
 - `Backlog do Produto:`
-        - Sprint 1
-   - Definição do problema;      - Documentação da Metodologia;
-   - Proposta de solução;   - Documentação da Metodologia;
+   - Definição do problema;      
+   - Proposta de solução;   
    - Personas e Histórias de usuários;
    - Requisitos e Restrições;
    - Diagrama de Casos de Uso;
    - Vídeo de 2 minutos sobre o problema e a solução proposta;
-   - Documentação atualizada no Github;
+   - Documentação da Metodologia;
+   - Diagrama de Classes;
+   - Diagrama de Fluxo;
+   - Wireframes interativos;
+   - Modelo Entidade Relacionamento (Projeto Conceitual);
+   - Projeto da Base de Dados;
+   - Plano de Testes de Software;
+   - Plano de Testes de Usabilidade;
+   - Template padrão da aplicação interativa;
+   - Prova de Conceito da Arquitetura (POC) - exemplo de implementação com a integração do front-end com o back-end;
+   - Programação de Funcionalidades;
+   - Realização e registro dos testes de software;
+   - Realização e registro dos testes de usabilidade;
+   - Relatório do teste de software;
+   - Relatório do teste de usabilidade;
+   - Apresentação da solução;
+   - Projeto do Github com Backlog e Plano de Sprints;
+   - Vídeo de até 3 minutos;
+  
+  - `Planejamento Sprint Backlog:`
+  
+  
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  

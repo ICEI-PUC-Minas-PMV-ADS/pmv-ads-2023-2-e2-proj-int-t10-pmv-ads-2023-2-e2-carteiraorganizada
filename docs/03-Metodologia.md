@@ -65,6 +65,8 @@ A divisão da equipe será:
      
 ### Processo
 
+https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/515
+
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
 > **Links Úteis**:

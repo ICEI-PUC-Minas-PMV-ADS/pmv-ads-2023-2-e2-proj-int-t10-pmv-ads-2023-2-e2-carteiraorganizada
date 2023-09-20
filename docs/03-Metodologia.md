@@ -65,6 +65,7 @@ A divisão da equipe será:
      
 ### Processo
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/114626925/af3ff42d-f303-46fc-9f5e-a11b5a3bad82)
 
 
 - `Backlog do Produto:`

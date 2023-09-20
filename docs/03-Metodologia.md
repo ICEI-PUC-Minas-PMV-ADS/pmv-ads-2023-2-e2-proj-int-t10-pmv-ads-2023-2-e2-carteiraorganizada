@@ -65,13 +65,15 @@ A divisão da equipe será:
      
 ### Processo
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/114626925/af3ff42d-f303-46fc-9f5e-a11b5a3bad82)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/114626925/01e72824-59fe-40a2-bb60-7bfd0f0e8469)
+
 
 
 
 - `Backlog do Produto:`
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/114626925/01e72824-59fe-40a2-bb60-7bfd0f0e8469)
+  
    - Definição do problema;      
    - Proposta de solução;   
    - Personas e Histórias de usuários;
@@ -98,6 +100,9 @@ A divisão da equipe será:
    - Vídeo de até 3 minutos;
   
 - `Sprint Backlog:`
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/114626925/af3ff42d-f303-46fc-9f5e-a11b5a3bad82)
+  
   1. *Sprint 1*
    - 1.1 *Planejamento*
        - 1.1.1 Documentação de contexto: estabelecer o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.

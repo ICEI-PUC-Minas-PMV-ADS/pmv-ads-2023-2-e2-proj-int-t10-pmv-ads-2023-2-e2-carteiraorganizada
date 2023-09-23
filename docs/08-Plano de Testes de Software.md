@@ -1,31 +1,108 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+Os requisitos para realização dos testes de software são:
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+- Site publicado na Internet
+- Navegador da Internet - Chrome, Firefox ou Edge
+- Conectividade de Internet para acesso às plataformas (APISs)
 
-Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o(s) requisito(s) associado(s) a cada um deles está(ão) correto(s) - de acordo com o que foi definido na seção "2 - Especificação do Projeto". 
 
-Por exemplo:
  
-| **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
+| **Caso de Teste** 	| **CT 01 – Cadastrar Perfil** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
-|Critério de Êxito | - O cadastro foi realizado com sucesso. |
+|	Requisito Associado 	|RF 001 - O sistema deve ter página de cadastro de usuário.|
+| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação.|
+| Passos 	| Acessar o navegador - Informar o endereço do site Clicar em “Criar Conta” - Preencher os campos obrigatórios (e-mail, nome, sobrenome, senha e confirmar senha. |
+|Critério de Êxito |O cadastro foi realizado com sucesso. |
 |  	|  	|
 | Caso de Teste 	| CT-02 – Efetuar login	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+|Requisito Associado | RF 002 - O sistema deve ter página de login  |
+| Objetivo do Teste 	| Verificar se o usuário consegue realizar o login.  |
+| Passos 	|  Acessar o navegador - Informar o endereço do site - Acessar o link de login- Preencher o campo e-mail -Preencher o campo da senha - Clicar em login.|
+|Critério de Êxito |O login ser realizado com sucesso  |
+|  	|  	|
+| Caso de Teste 	| CT-03 – Cadastro de Usuário	|
+|Requisito Associado | RF 003 - O sistema deve permitir o usuário cadastrar informações e alterar conforme os dados de finanças pessoas se altere.|
+| Objetivo do Teste 	| Verificar se o usuário consegue inserir e alterar dados. |
+| Passos 	|  Acessar a tela de cadastro das informações financeiras - Inserir as informações solicitadas - Alterar as informações já cadastradas|
+|Critério de Êxito |Os dados cadastrados e alterados com sucesso.|
+|  	|  	|
+| Caso de Teste 	| CT-04 – Avaliação do Serviço	|
+|Requisito Associado |RF 004 - O sistema deve permitir que o usuário avalie o serviço.|
+| Objetivo do Teste 	| Verificação se a ferramenta de avaliação está funcionando.|
+| Passos 	| Após a inserção das informações e salvamento, gerar a janela de avaliação.|
+|Critério de Êxito | Mostrar a mensagem: Obrigado pela avaliação. |
+|  	|  	|
+| Caso de Teste 	| CT-05 – Resumo Financeiro|
+|Requisito Associado |RF 005 - O usuário deve ser direcionado para um painel que mostre um resumo das suas finanças pessoais, incluindo saldo total, despesas e receitas recentes.|
+| Objetivo do Teste 	| Visualização de todo o resumo financeiro   |
+| Passos 	| Acessar a página de relatório financeiro |
+|Critério de Êxito | Geração de um painel destacando todas despesas receitas recentes.|
+|  	|  	|
+| Caso de Teste 	| CT-06 – Registro da Demonstração Financeira	|
+|Requisito Associado |RF 006 - Os usuários devem poder registrar suas despesas e receitas, categorizá-las (alimentação, moradia, salário, etc.) e adicionar detalhes relevantes (data, descrição, etc.). É importante permitir a adição de informações recorrentes, como contas mensais.|
+| Objetivo do Teste 	|Verificar se o usuário está conseguindo registrar e adicionar os detalhes de cada conta.|
+| Passos 	| Acessar o site - Clicar no link de receitas ou despesas -Inserir os dados conforme a demanda.|
+|Critério de Êxito | Sucesso nas inclusões e alterações.|
+|  	|  	|
+| Caso de Teste 	| CT-07 – Configuração para Lembretes Automáticos	|
+|Requisito Associado | RF – 007 Os usuários podem configurar lembretes automáticos para pagamentos de contas importantes, evitando atrasos e penalidades.|
+| Objetivo do Teste 	|Informar automaticamente ao usuário contas importante.|
+| Passos 	| Acessar a página principal - Acessar o link da opção lembretes - Selecionar as contas importantes e salvar |
+|Critério de Êxito | Geração do lembrete do pagamento e a data ser efetivado.|
+|  	|  	|
+| Caso de Teste 	| CT-08 – Envio de notificações por e-mail|
+|Requisito Associado |RF 008 - Enviar notificações por e-mail ou mensagens internas sobre atividades importantes.|
+| Objetivo do Teste 	| Verificar se as mensagens estão sendo direcionadas para o e-mail cadastrado pelo usuário. |
+| Passos 	|  Acessar a página principal - Acessar o link da opção de lembretes - Clicar na caixa receber notificações. |
+|Critério de Êxito | Usuário receber as notificações por email |
+|  	|  	|
+| Caso de Teste 	| CT-09 – Abertura e visualização de suporte ao cliente	|
+|Requisito Associado |RF 009 - Fornecer uma seção de suporte ao cliente para responder a perguntas frequentes e permitir a abertura de tickets de suporte.|
+| Objetivo do Teste 	| Oferecer ao cliente a opção de suporte ao sistema, em caso de dúvidas, com perguntas e respostas.|
+| Passos 	| Acessar a página principal - Acessar o link de suporte - Registrar a abertura de tickets com as dúvidas.|
+|Critério de Êxito | Registro efetivado com sucesso e envio de resposta ao cliente.|
+|  	|  	|
+| Caso de Teste 	| CT-10 – Teste de acessibilidade	|
+|Requisito Associado |RF 010 - O site deve ser intuitivo e de fácil utilização, mesmo para usuários não técnicos.|
+| Objetivo do Teste 	| Verificar se o sistema e de fácil usabilidade pelos usuários.|
+| Passos 	| Acessar a página Inicial - Acessar os links cadastrados|
+|Critério de Êxito | Pagina rápida e intuitiva com fácil visualização |
+|  	|  	|
+| Caso de Teste 	| CT-11 – Verificação Autenticação Usuários	|
+|Requisito Associado | RNF  - 01 O site deve ter senhas de acesso e identificação para os usuários. |
+| Objetivo do Teste 	| Verificar se a aplicação e de acesso restrita. |
+| Passos 	| Acessar o navegador - Informar o endereço do site - Informar e-mail  e senha na tela de login - Clicar em login |
+|Critério de Êxito | Acesso de dados somente do usuário autorizado, pela senha.|
+|  	|  	|
+| Caso de Teste 	| CT-12 – Proteção de Dados 	|
+|Requisito Associado |  RNF  - 12 Os dados pessoais devem ser armazenados sob a Lei Geral de Proteção de Dados Pessoais (LGPD)|
+| Objetivo do Teste 	|Verificação da Integridade e proteção dos dados dos usuários cadastrados|
+| Passos 	| Acessar o gerenciador do banco de dados|
+|Critério de Êxito |Somente a pessoal autorizada tem acesso a todos os dados cadastrados.|
+|  	|  	|
+| Caso de Teste 	| CT-13 – Compatibilidade de Navegadores 	|
+|Requisito Associado | RNF  - 03 O sistema deve funcionar nos principais navegadores, como Chrome, Firefox, Edge, Opera. |
+| Objetivo do Teste 	| Verificar se o sistema funciona corretamente nas aplicações disponíveis no mercado.|
+| Passos 	| Acessar o site nos navegadores Chrome, Firefox, Edge e  Opera - Acessar os links - Acessar todas as telas disponíveis.|
+|Critério de Êxito | Site funcionando corretamente, sem nenhum erro nos navegadores.|
+|  	|  	|
+| Caso de Teste 	| CT-14 – Verificação de disponibilidade 	|
+|Requisito Associado | RNF  - 04 O site deve estar disponível e acessível para os usuários 24 horas por dia, 7 dias por semana, com um tempo de inatividade planejado mínimo para manutenção.|
+| Objetivo do Teste 	| Disponibilidade da aplicação 24 horas por dia 7 dias por semana|
+| Passos 	|  Contratação de um servidor/banco de dados com disponibilidade regional e internacional.|
+|Critério de Êxito | Sistema funcionando sem interrupção. |
+|  	|  	|
+| Caso de Teste 	| CT-15 – Acessibilidade	|
+|Requisito Associado | RNF  - 05 O site deverá ser fácil de usar, eficiente e acessível.|
+| Objetivo do Teste 	| Verificar se o site possui interface intuitiva para pessoas com necessidades especial.|
+| Passos 	| Acessar a aplicação - Acessar o link aumento das letras - Acessar o link pra a leitura da pagina.|
+|Critério de Êxito | Aumento das letras e texto gerado em áudio. |
+|  	|  	|
+| Caso de Teste 	| CT-16 – Segurança dos dados 	|
+|Requisito Associado | RNF  - 06 Os dados do usuário devem ser armazenados e transmitidos de forma segura, utilizando criptografia forte.|
+| Objetivo do Teste 	| Verificação de segurança dos dados  |
+| Passos 	| Acessar a aplicação - Verificar se os dados são de fácil acesso.|
+|Critério de Êxito | Aplicação com criptografia forte. |
+|  	|  	|
 
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)

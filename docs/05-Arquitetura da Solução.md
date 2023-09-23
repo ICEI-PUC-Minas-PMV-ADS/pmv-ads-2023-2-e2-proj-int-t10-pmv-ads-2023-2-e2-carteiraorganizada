@@ -32,6 +32,7 @@ Para mais informações, consulte o microfundamento "Modelagem de Dados".
 ## Tecnologias Utilizadas
 
 - [Lucidchart](https://www.lucidchart.com) Ferramenta utilizada para Criar o Diagrama de Classe.
+- [Figma](https://www.figma.com) Ferramenta utilizada para criar o Wireframe.
 
 ## Hospedagem
 

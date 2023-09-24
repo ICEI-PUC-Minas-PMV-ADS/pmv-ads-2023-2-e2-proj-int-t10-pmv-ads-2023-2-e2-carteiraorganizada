@@ -13,7 +13,9 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 
 
-## Modelo ER (Projeto Conceitual)
+## Modelo ER 
+
+(Projeto Conceitual)![DiagramaER CarteiraOrganizada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/114626925/124b06a3-a926-4ca6-ad7a-0e32ce394b4b)
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 

@@ -32,12 +32,7 @@ O projeto da base de dados corresponde à representação das entidades e relaci
 *Documentação do Projeto: Vamos manter uma documentação clara do projeto de base de dados, incluindo esquemas de tabelas, diagramas e descrições de campos.
 ![tabela DB carteira organizada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/115134851/3aa4e389-d3fa-4895-979a-372609974936)
 
- id  user_name  senha   email                   
-------  ---------  ------  ------------------------
-     1  marco      4512    massdoll@gmail.com      
-     2  andre      4321    andreazevedo@gmail.com  
-     3  daniel76   8754    dani76@gmail.com
-
+![Sem título](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/115134851/82b2df90-317c-4ee8-96ee-9c71f0ecbde6)
 
 
 

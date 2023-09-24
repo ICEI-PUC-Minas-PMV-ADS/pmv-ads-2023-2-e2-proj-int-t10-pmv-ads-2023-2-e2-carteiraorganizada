@@ -48,7 +48,9 @@ Exemplificando com imagens das tabelas o andamento para o banco de dados
 
 - [Lucidchart](https://www.lucidchart.com) Ferramenta utilizada para Criar o Diagrama de Classe.
 - [Figma](https://www.figma.com) Ferramenta utilizada para criar o Wireframe.
-- MySQL e SQLyog (https://www.mysql.com/)(https://webyog.com/product/sqlyog/). Ferramentas de gerenciamento de banco de dados.
+- [MySQL](https://www.mysql.com/) Ferramenta de gerenciamento de banco de dados
+- [SQLyog](https://webyog.com/product/sqlyog/) Interface gráfica de gerenciamento de banco de dados.
+- 
 ## Hospedagem
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.

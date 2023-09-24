@@ -24,12 +24,20 @@ Um diagrama entidade relacionamento (ER) é um tipo de fluxograma que ilustra co
 O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
 
 *Requisitos: Informações de Entidade como id, nome de usuario, email e senha, estando essas informações diretamente relacionadas para acesso ao aplicativo. A seguir um cadastro mais completo de perfil solicitando nome, cpf e data de nascimento para uma relação mais definitiva entre os dados. 
+
 *Sistema de Gerenciamento de Banco de Dados (SGBD): Utilizaremos o MYSQL para gerenciamento de DB e também o SQLyog para a criação e gerenciamento de DB com uma visualização gráfica organizada.
+
 *Modelo de dados: Usaremos um modelo de dados simples que descreverá as entidades (tabelas), seus atributos e os relacionamentos entre elas.
+
 *Normalização: Aplicaremos a normalização para que não haja redundâncias ou repetições no BD.
+
 *Segurança: Foco na segurança desde o início. Os dados disponibilizados ficarão em segurança na DB criado e somente o admin do DB terá acesso para alguma possível correção mantendo sigilo das senhas dos clientes.
+
 *Testes: Realizaremos testes frequentes para garantir que o banco de dados funcione como esperado e que os dados sejam armazenados corretamente.
+
 *Documentação do Projeto: Vamos manter uma documentação clara do projeto de base de dados, incluindo esquemas de tabelas, diagramas e descrições de campos.
+
+Exemplificando com imagens das tabelas o andamento para o banco de dados
 ![tabela DB carteira organizada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/115134851/3aa4e389-d3fa-4895-979a-372609974936)
 
 ![Sem título](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada/assets/115134851/82b2df90-317c-4ee8-96ee-9c71f0ecbde6)

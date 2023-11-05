@@ -1,0 +1,175 @@
+﻿@{
+    ViewData["Title"] = "Tela Principal";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela Principal</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        .top-bar {
+            background-color: #F8E4E3;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            margin: 0 auto;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .containerMain {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 10%;
+        }
+
+        .containerLeft,
+        .containerRight {
+            text-align: center;
+            width: 48%;
+            height: auto;
+            background-color: #F8E4E3;
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+        .box {
+            width: 24%;
+            display: inline-block;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #FFA396;
+            text-align: left;
+            border-radius: 10px;
+            position: relative;
+        }
+
+        .box img {
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .containerLeft p,
+        .containerRight p {
+            max-width: 100%;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;}
+
+          #editarValores {
+            background-color: #F8E4E3;
+            border-radius: 5px;
+            padding: 5px 20px;
+            margin-bottom: 10px;
+            cursor: pointer;
+    }
+
+
+        
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=PT+Sans:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="top-bar">
+        <div class="container">
+            <div class="box">
+                <img src="~/img/bank.png" alt="icone de um banco">
+                <div>Saldo Atual</div>
+                <div>R$ 10,00</div>
+            </div>
+            <div class="box">
+                <img src="~/img/revenue.png" alt="Imagem 2">
+                <div>Receitas</div>
+                <div>R$ 15,00</div>
+            </div>
+            <div class="box">
+                <img src="~/img/expense.png" alt="Imagem 3">
+                <div>Despesas</div>
+                <div>R$ 20,00</div>
+            </div>
+            <div class="box">
+                <img src="~/img/atm-card.png" alt="Imagem 4">
+                <div>Cartão de Crédito</div>
+                <div>R$ 25,00</div>
+            </div>
+        </div>
+    </div>
+    
+     
+
+    <div class="containerMain">
+       
+        <div class="containerLeft">
+                <h4>Renda Ativa</h4>
+                <p id="salario">Salário           R$0,00</p>
+                <h4>Saldo em Banco</h4>
+                <p id="bradesco">Bradesco          R$0,00</p>
+                <p id="nubank">Nubank          R$0,00</p>
+                <p id="neon">Neon         R$0,00</p>
+                
+            </div>
+            <div class="containerRight">
+                <h4>Despesa por categoria</h4>
+                <p id="moradia">Moradia           R$0,00</p>
+                <p id="estudos">Estudos           R$0,00</p>
+                <p id="lazer">Lazer           R$0,00</p>
+                <p id="saude">Saúde           R$0,00</p>
+            
+            </div>
+            
+        </div>
+
+        <button id="editarValores">Editar Valores</button>
+    </div>
+</body>
+
+</html>
+
+
+<script>
+    const paragrafos = document.querySelectorAll('.containerMain p');
+    const botaoEditar = document.getElementById('editarValores');
+    
+    botaoEditar.addEventListener('click', function() {
+        paragrafos.forEach(paragrafo => {
+            const textoOriginal = paragrafo.textContent.trim().split('R$')[1].trim();
+            const input = document.createElement('input');
+            input.type = 'text';
+            input.value = textoOriginal;
+            input.style.width = '80px';
+            input.style.marginRight = '10px';
+            
+            paragrafo.innerHTML = 'R$ ';
+            paragrafo.appendChild(input);
+            
+            input.addEventListener('keyup', function(event) {
+                if (event.key === 'Enter') {
+                    const novoValor = input.value.trim();
+                    const novoTexto = `R$ ${novoValor}`;
+                    paragrafo.textContent = novoTexto;
+                }
+            });
+        });
+        botaoEditar.style.display = 'none';
+    });
+</script>
+

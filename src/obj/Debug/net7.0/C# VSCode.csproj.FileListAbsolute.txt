@@ -1,0 +1,30 @@
+/Users/leanderalmeida/Desktop/C# VSCode/bin/Debug/net7.0/appsettings.Development.json
+/Users/leanderalmeida/Desktop/C# VSCode/bin/Debug/net7.0/appsettings.json
+/Users/leanderalmeida/Desktop/C# VSCode/bin/Debug/net7.0/C# VSCode.staticwebassets.runtime.json
+/Users/leanderalmeida/Desktop/C# VSCode/bin/Debug/net7.0/C# VSCode
+/Users/leanderalmeida/Desktop/C# VSCode/bin/Debug/net7.0/C# VSCode.deps.json
+/Users/leanderalmeida/Desktop/C# VSCode/bin/Debug/net7.0/C# VSCode.runtimeconfig.json
+/Users/leanderalmeida/Desktop/C# VSCode/bin/Debug/net7.0/C# VSCode.dll
+/Users/leanderalmeida/Desktop/C# VSCode/bin/Debug/net7.0/C# VSCode.pdb
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.AssemblyInfoInputs.cache
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.AssemblyInfo.cs
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.csproj.CoreCompileInputs.cache
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.MvcApplicationPartsAssemblyInfo.cache
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.RazorAssemblyInfo.cache
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.RazorAssemblyInfo.cs
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/staticwebassets/msbuild.C# VSCode.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/staticwebassets/msbuild.build.C# VSCode.props
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.C# VSCode.props
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.C# VSCode.props
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/staticwebassets.build.json
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/staticwebassets.development.json
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/scopedcss/bundle/C# VSCode.styles.css
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/scopedcss/projectbundle/C# VSCode.bundle.scp.css
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.dll
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/refint/C# VSCode.dll
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.pdb
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.genruntimeconfig.cache
+/Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/ref/C# VSCode.dll

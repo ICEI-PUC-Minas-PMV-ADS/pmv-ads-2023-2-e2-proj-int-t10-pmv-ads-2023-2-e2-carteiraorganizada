@@ -1,0 +1,119 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 90vh;
+        padding: 50px;
+    }
+
+    .left-side {
+        flex: 1;
+        text-align: right;
+        margin-right: 20px;
+    }
+
+    .right-side {
+        flex: 2;
+        background-color: #FFA396;
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .login-title {
+        color: white;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .login-form {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .login-input {
+        width: 100%;
+        margin-bottom: 15px;
+        padding: 15px;
+        font-size: 18px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .login-button {
+        width: 100%;
+        padding: 20px;
+        font-size: 18px;
+        background-color: #FF7043;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+    }
+
+        .login-button:hover {
+            background-color: #FF5722;
+        }
+</style>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="left-side">
+            <img src="~/img/wallet.png" alt="Wallet Image" style="width: 400px; height: 400px;">
+        </div>
+
+        <div class="right-side">
+            <h3 class="login-title">Login</h3>
+            <div class="login-form">
+                <div style="margin-bottom: 15px;">
+                    <input type="text" id="txtUsername" placeholder="Digite seu nome de usuário" class="login-input" />
+                </div>
+
+                <div style="margin-bottom: 15px;">
+                    <input type="password" id="txtPassword" placeholder="Digite sua senha" class="login-input" />
+                </div>
+
+                <div>
+                    <button type="button" class="login-button" id="btnLogin">Login</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("btnLogin").addEventListener("click", function () {
+            var username = document.getElementById("txtUsername").value;
+            var password = document.getElementById("txtPassword").value;
+
+            if (username === "adm" && password === "123456") {
+                window.location.href = "/Home/Privacy";
+            } else {
+                alert("Senha errada. Tente novamente.");
+            }
+        });
+    </script>
+</body>
+
+</html>

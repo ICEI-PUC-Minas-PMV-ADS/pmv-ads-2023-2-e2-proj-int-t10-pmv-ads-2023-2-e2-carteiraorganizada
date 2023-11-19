@@ -1,7 +1,20 @@
+using C__VSCode.Data;
+using C__VSCode.Data.Interfaces;
+using C__VSCode.Data.Repositories;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//inje��o de depend�ncia para utilizar as interfaces 
+builder.Services.AddScoped<IExpenseRepository, ExpenseRepository>();
+builder.Services.AddScoped<IBankAccountRepository, BankAccountRepository>();
+
+//configura��o do DbContext, setando para utilizar o Sqlite, o nome do arquivo gerado ao rodar a migration � database.db
+builder.Services.AddDbContext<BaseDbContext>(options =>
+       options.UseSqlite("Data Source=database.db"));
 
 var app = builder.Build();
 

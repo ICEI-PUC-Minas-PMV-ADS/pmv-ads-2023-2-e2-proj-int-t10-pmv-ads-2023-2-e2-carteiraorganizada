@@ -28,3 +28,175 @@
 /Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.pdb
 /Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/C# VSCode.genruntimeconfig.cache
 /Users/leanderalmeida/Desktop/C# VSCode/obj/Debug/net7.0/ref/C# VSCode.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\appsettings.json
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.staticwebassets.runtime.json
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.exe
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.deps.json
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.runtimeconfig.json
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.pdb
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Humanizer.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.csproj.AssemblyReference.cache
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.AssemblyInfoInputs.cache
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.AssemblyInfo.cs
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.csproj.CoreCompileInputs.cache
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.RazorAssemblyInfo.cache
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.RazorAssemblyInfo.cs
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets\msbuild.C# VSCode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets\msbuild.build.C# VSCode.props
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.C# VSCode.props
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.C# VSCode.props
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\scopedcss\bundle\C# VSCode.styles.css
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\scopedcss\projectbundle\C# VSCode.bundle.scp.css
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.csproj.CopyComplete
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\refint\C# VSCode.dll
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.pdb
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.genruntimeconfig.cache
+C:\Users\apope\source\repos\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\ref\C# VSCode.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\appsettings.json
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.staticwebassets.runtime.json
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.exe
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.deps.json
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.runtimeconfig.json
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\C# VSCode.pdb
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.csproj.AssemblyReference.cache
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.AssemblyInfoInputs.cache
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.AssemblyInfo.cs
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.RazorAssemblyInfo.cache
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.RazorAssemblyInfo.cs
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets\msbuild.C# VSCode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets\msbuild.build.C# VSCode.props
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.C# VSCode.props
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.C# VSCode.props
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\scopedcss\bundle\C# VSCode.styles.css
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\scopedcss\projectbundle\C# VSCode.bundle.scp.css
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.csproj.CopyComplete
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\refint\C# VSCode.dll
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.pdb
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\C# VSCode.genruntimeconfig.cache
+C:\Users\Mitch\Documents\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\src\obj\Debug\net7.0\ref\C# VSCode.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leanderalmeida/Desktop/C# VSCode/C# VSCode.csproj": {}
+    "C:\\Users\\Mitch\\Documents\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\src\\C# VSCode.csproj": {}
   },
   "projects": {
-    "/Users/leanderalmeida/Desktop/C# VSCode/C# VSCode.csproj": {
+    "C:\\Users\\Mitch\\Documents\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\src\\C# VSCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leanderalmeida/Desktop/C# VSCode/C# VSCode.csproj",
+        "projectUniqueName": "C:\\Users\\Mitch\\Documents\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\src\\C# VSCode.csproj",
         "projectName": "C# VSCode",
-        "projectPath": "/Users/leanderalmeida/Desktop/C# VSCode/C# VSCode.csproj",
-        "packagesPath": "/Users/leanderalmeida/.nuget/packages/",
-        "outputPath": "/Users/leanderalmeida/Desktop/C# VSCode/obj/",
+        "projectPath": "C:\\Users\\Mitch\\Documents\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\src\\C# VSCode.csproj",
+        "packagesPath": "C:\\Users\\Mitch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mitch\\Documents\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\pmv-ads-2023-2-e2-proj-int-t10-pmv-ads-2023-2-e2-carteiraorganizada\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/leanderalmeida/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Mitch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -37,6 +37,26 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
